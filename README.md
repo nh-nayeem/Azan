@@ -1,6 +1,6 @@
-# azan1
+# Azan
 
-A new Flutter project.
+A Flutter app for android to show notification in Namaj time.
 
 ## Getting Started
 
